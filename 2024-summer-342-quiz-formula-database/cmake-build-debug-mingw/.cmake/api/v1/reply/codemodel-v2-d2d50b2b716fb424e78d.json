@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "formula_service_poc",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "formula_service_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-formula_service_lib-Debug-c0dfdc7e3dc8efe0a18c.json",
+					"name" : "formula_service_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "formula_service_poc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-formula_service_poc-Debug-30693bbe97ca09f42d77.json",
+					"name" : "formula_service_poc",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/dillp/Desktop/LinuxHome/342Sum/Quiz/2024-summer-342-quiz-formula-database/cmake-build-debug-mingw",
+		"source" : "C:/Users/dillp/Desktop/LinuxHome/342Sum/Quiz/2024-summer-342-quiz-formula-database"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

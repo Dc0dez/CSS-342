@@ -1,0 +1,3 @@
+C:/Users/dillp/Desktop/LinuxHome/342Sum/quiz/2024-summer-342-quiz-recursion/cmake-build-debug-mingw/CMakeFiles/my_executable.dir
+C:/Users/dillp/Desktop/LinuxHome/342Sum/quiz/2024-summer-342-quiz-recursion/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/dillp/Desktop/LinuxHome/342Sum/quiz/2024-summer-342-quiz-recursion/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir

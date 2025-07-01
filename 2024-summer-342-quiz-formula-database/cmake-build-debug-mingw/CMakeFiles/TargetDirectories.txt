@@ -1,0 +1,4 @@
+C:/Users/dillp/Desktop/LinuxHome/342Sum/Quiz/2024-summer-342-quiz-formula-database/cmake-build-debug-mingw/CMakeFiles/formula_service_lib.dir
+C:/Users/dillp/Desktop/LinuxHome/342Sum/Quiz/2024-summer-342-quiz-formula-database/cmake-build-debug-mingw/CMakeFiles/formula_service_poc.dir
+C:/Users/dillp/Desktop/LinuxHome/342Sum/Quiz/2024-summer-342-quiz-formula-database/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/dillp/Desktop/LinuxHome/342Sum/Quiz/2024-summer-342-quiz-formula-database/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
